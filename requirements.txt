@@ -1,0 +1,6 @@
+moviepy
+pillow
+newspaper3k
+pyttsx3
+requests
+lxml[html_clean]
